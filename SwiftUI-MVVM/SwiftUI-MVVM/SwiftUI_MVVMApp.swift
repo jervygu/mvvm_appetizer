@@ -15,3 +15,5 @@ struct SwiftUI_MVVMApp: App {
         }
     }
 }
+
+// https://www.youtube.com/watch?v=FwGMU_Grnf8
